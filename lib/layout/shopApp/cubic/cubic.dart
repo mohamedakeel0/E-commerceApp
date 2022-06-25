@@ -1,15 +1,15 @@
 import 'package:flutter/cupertino.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:on_boarding/layout/Shop_home/home_model.dart';
+import 'package:on_boarding/model/home_model.dart';
 import 'package:on_boarding/layout/shopApp/cubic/states.dart';
-import 'package:on_boarding/modules/login/login_model.dart';
+import 'package:on_boarding/model/login_model.dart';
 
 import 'package:on_boarding/modules/shop/Categories/Categories_screen.dart';
-import 'package:on_boarding/modules/shop/Categories/model_Categories.dart';
+import 'package:on_boarding/model/model_Categories.dart';
 import 'package:on_boarding/modules/shop/Favorites/ChangeFavorites_Model.dart';
 import 'package:on_boarding/modules/shop/Favorites/Favorites.dart';
-import 'package:on_boarding/modules/shop/Favorites/favorites_Model.dart';
+import 'package:on_boarding/model/favorites_Model.dart';
 import 'package:on_boarding/modules/shop/Products/Products_Screen.dart';
 import 'package:on_boarding/modules/shop/Settings/Settings_screen.dart';
 
