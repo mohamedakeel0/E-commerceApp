@@ -2,10 +2,10 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:conditional_builder_null_safety/conditional_builder_null_safety.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:on_boarding/layout/Shop_home/home_model.dart';
+import 'package:on_boarding/model/home_model.dart';
 import 'package:on_boarding/layout/shopApp/cubic/cubic.dart';
 import 'package:on_boarding/layout/shopApp/cubic/states.dart';
-import 'package:on_boarding/modules/shop/Categories/model_Categories.dart';
+import 'package:on_boarding/model/model_Categories.dart';
 import 'package:on_boarding/shared/componnents0/components.dart';
 import 'package:on_boarding/shared/style/colors.dart';
 

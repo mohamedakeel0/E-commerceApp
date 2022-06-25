@@ -4,7 +4,7 @@ import 'package:conditional_builder_null_safety/conditional_builder_null_safety.
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:on_boarding/layout/shopApp/cubic/cubic.dart';
-import 'package:on_boarding/modules/shop/Search/search_model.dart';
+import 'package:on_boarding/model/search_model.dart';
 import 'package:on_boarding/shared/style/colors.dart';
 
 Widget buildArticleItem(article, context) => InkWell(

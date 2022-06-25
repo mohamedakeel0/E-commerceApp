@@ -8,7 +8,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:on_boarding/modules/login/cubic_login/states.dart';
 
 
-import 'package:on_boarding/modules/login/login_model.dart';
+import 'package:on_boarding/model/login_model.dart';
 import 'package:on_boarding/shared/network/End_point.dart';
 import 'package:on_boarding/shared/network/remot/dio_helper.dart';
 

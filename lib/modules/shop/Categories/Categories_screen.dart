@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:on_boarding/layout/shopApp/cubic/cubic.dart';
 import 'package:on_boarding/layout/shopApp/cubic/states.dart';
-import 'package:on_boarding/modules/shop/Categories/model_Categories.dart';
+import 'package:on_boarding/model/model_Categories.dart';
 import 'package:on_boarding/shared/componnents0/components.dart';
 
 class Categories_screen extends StatelessWidget {

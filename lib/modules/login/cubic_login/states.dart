@@ -1,4 +1,4 @@
-import 'package:on_boarding/modules/login/login_model.dart';
+import 'package:on_boarding/model/login_model.dart';
 
 abstract class ShopLoginStates{}
 class ShopLoginInitailState extends ShopLoginStates{}
